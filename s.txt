@@ -1,0 +1,15 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 7E2C-0F60
+
+ Directory of C:\mongo-spark-basic-samples
+
+09/03/2020  03:53 PM    <DIR>          .
+09/03/2020  03:53 PM    <DIR>          ..
+09/03/2020  02:05 PM            24,000 100Recs_1.json
+09/03/2020  02:16 PM             2,236 hdinsightssample.md
+09/03/2020  02:05 PM         2,931,290 mongo-spark-connector-assembly-2.4.1-SNAPSHOT.jar
+09/03/2020  02:05 PM               437 README.md
+09/03/2020  03:53 PM                 0 s.txt
+09/03/2020  02:05 PM             1,117 samples.scala
+               6 File(s)      2,959,080 bytes
+               2 Dir(s)  108,859,445,248 bytes free
